@@ -1,8 +1,8 @@
 ## Hi there 👋🏼
 
-🔭 I’m currently working as **DevOps Engineer** at [Openbank](https://openbank.es)
+🔭 I’m currently working as **_DevOps Engineer_** at [Openbank](https://openbank.es)
 
-🌱 I’m currently learning __**Full Stack development**__ at [The Bridge](https://thebridge.tech "The Bridge")
+🌱 I’m currently learning **_Full Stack development_** at [The Bridge](https://thebridge.tech "The Bridge")
 
 🤔 I’m looking for help with anything related with web development
 
