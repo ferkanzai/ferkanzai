@@ -1,16 +1,17 @@
 ## Hi there 👋🏼
 
-🔭 I’m currently working as **_DevOps Engineer_** at [Openbank](https://openbank.es)
+🔭 Currently working as **_DevOps Engineer_** at [Openbank](https://openbank.es)
 
-🌱 I’m currently learning **_Full Stack development_** at [The Bridge](https://thebridge.tech "The Bridge")
+🌱 Also learning **_Full Stack development_** at [The Bridge](https://thebridge.tech "The Bridge")
 
-🤔 I’m looking for help with anything related with web development
+🤔 Looking for help with anything related with web development
 
 ⚡ Fun fact: I'm from Madrid, Spain, but I used to live in Dublin, Ireland
 
 ### Tech I know 💻
 
 - AWS
+- JavaScript
 - Python
 - HTML
 - CSS
