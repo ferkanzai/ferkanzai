@@ -1,6 +1,6 @@
 ## Hi there 👋🏼
 
-🔭  Currently working as **_Cloud Operations Engineer_** at [Nexthink](https://www.nexthink.com/). Previously Openbank and AWS.
+🔭  Currently working as **** at [](). Previously Openbank and AWS.
 
 🌱  Also learning **_Full Stack development_** at [The Bridge](https://thebridge.tech "The Bridge")
 
