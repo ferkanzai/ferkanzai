@@ -1,8 +1,6 @@
 ## Hi there 👋🏼
 
-🔭  Currently working as **** at [](). Previously Openbank and AWS.
-
-🌱  Also learning **_Full Stack development_** at [The Bridge](https://thebridge.tech "The Bridge")
+🔭  Currently working as Full Stack Developer at [CareExpand](https://careexpand.com).
 
 🤔  Looking for help with anything related with web development
 
