@@ -40,8 +40,8 @@
 
 ### 📫 How to reach me:
 
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.carayu@gmail.com)](mailto:fernando.carayu@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandocarmonaayuela/)](https://www.linkedin.com/in/fernandocarmonaayuela/)
+[![Gmail Badge](https://img.shields.io/badge/-fernando.carayu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.carayu@gmail.com)](mailto:fernando.carayu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandocarmonaayuela/)](https://www.linkedin.com/in/fernandocarmonaayuela/)
 
 
 
