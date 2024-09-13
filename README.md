@@ -1,6 +1,6 @@
 ## Hi there 👋🏼
 
-🔭  Currently working as Full Stack Developer at [Olympic Channel](https://olympics.com).
+🔭  Currently working as Full Stack Developer at [thePower Education](https://thepower.education/).
 
 🤔  Looking for help with/learn anything related with web development
 
