@@ -1,8 +1,6 @@
 ## Hi there 👋🏼
 
-🔭  Currently working as Full Stack Developer at [thePower Education](https://thepower.education/).
-
-🤔  Looking for help with/learn anything related with web development
+🔭  Currently working as Senior Full Stack Developer at [Edelman](https://www.edelman.com/).
 
 ### Tech I work with 💻
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -35,7 +33,7 @@
 
 - Running
 - Photography
-- Drones (I have my own, which I love to fly!)
+- Drones (I used to have my own, which I loved to fly!)
 - Movies
 
 ### 📫 How to reach me:
